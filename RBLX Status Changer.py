@@ -3,7 +3,7 @@ import random
 import time
 import os
 
-rand_text = ['Text 1','Text 2'] # Add your text
+rand_text = ['Hello World!','Python','evvml'] # Add your text
 
 os.system('cls')
 
